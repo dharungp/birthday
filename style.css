@@ -1,0 +1,26 @@
+.body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+    border-color: darkviolet;
+}
+
+.mom{
+height: 50px;
+background-color: orange;
+border-style: bold;
+border-color: red;
+text-align: justify;
+border-width: 2px;
+color: white;
+border-radius: 8px;
+
+}
